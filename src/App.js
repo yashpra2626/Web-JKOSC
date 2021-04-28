@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1> "Web JKOSC" raman Aditya yash baba ki jay</h1>
+      <h1> "Apna Jk Jindabad.</h1>
     </div>
   );
 }
